@@ -6,4 +6,8 @@ public class First {
 
     // extra line 1
     // extra line 2
+
+    public static void main(String[] args) {
+        System.out.println("java");
+    }
 }
